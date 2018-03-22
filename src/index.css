@@ -1,0 +1,15 @@
+:root {
+  /* color scheme: https://color.adobe.com/de/Birdfolio-Blues-color-theme-1945976/edit/?copy=true&base=2&rule=Custom&selected=2&name=Kopie%20von%20Birdfolio%20Blues&mode=rgb&rgbvalues=0.168627,0.227451,0.258824,0.247059,0.341176,0.396078,0.741176,0.831373,0.870588,0.937255,0.937255,0.937255,1,0.32549,0.05098&swatchOrder=0,1,2,3,4 */
+  --color-bright: #EFEFEF;
+  --color-primary: #3F5765;
+  --color-primary-alt: #BDD4DE;
+  --color-break: #FF530D;
+  --color-dark: #2B3A42;
+}
+
+body {
+  background-color: var(--color-bright);
+  color: var(--color-primary);
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, Segoe UI,
+    Helvetica Neue, Helvetica, Arial, sans-serif;
+}

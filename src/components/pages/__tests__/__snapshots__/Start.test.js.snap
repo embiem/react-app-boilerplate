@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Start renders without crashing 1`] = `
+<div
+  className="start"
+>
+  <h1>
+    Start
+  </h1>
+  <p />
+  <button
+    onClick={undefined}
+  >
+    Increment
+  </button>
+</div>
+`;
